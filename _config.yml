@@ -3,7 +3,7 @@
 
 # SITE SPECIFIC: The following fields are typically changed for each site
 name: EE 160 Summer 2023
-baseurl: /ee60
+baseurl: /EE160Summer23
 morea_theme: spacelab
 timezone: Pacific/Honolulu
 morea_navbar_items:
